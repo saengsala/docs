@@ -8,7 +8,4 @@ test TEST2
 bank TEST1
 bank TEST1
 
-5555
-
-555
-555
+55
